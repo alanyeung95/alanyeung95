@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alanyeung95
-- 👀 I’m interested in NLP
-- 🌱 I’m currently learning french and linear algebra
+- 👀 I’m interested in chatbot and NLP technologies.
+- 🌱 I’m currently learning french.
 - 📫 You can reach me through alanyeung.dev@gmail.com
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!---
