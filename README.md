@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alanyeung95
 - 👀 I’m interested in chatbot and NLP technologies.
-- 🌱 I’m currently learning french.
+- 🌱 I’m currently studying at UofT.
 - 📫 You can reach me through alanyeung.dev@gmail.com
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!---
