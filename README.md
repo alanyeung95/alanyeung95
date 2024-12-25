@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alanyeung95
 - 👀 I’m interested in NLP and Blockchain/Cryptocurrency technologies.
-- 🌱 I’m currently studying at UofT.
+- 🌱 I finished my study at UofT.
 - 📫 You can reach me through alanyeung.dev@gmail.com
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!---
